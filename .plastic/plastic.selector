@@ -1,0 +1,3 @@
+repository "HEAVN/HEAVN@11270642504013@cloud"
+  path "/"
+    smartbranch "/main/Latest/newnew/merge"
