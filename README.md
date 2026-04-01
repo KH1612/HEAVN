@@ -2,6 +2,7 @@
 Unity Editor version 6000.4.0f1 required
 
 # How to Play
+Run: WinEXE/heavn.exe
 Run the Main Menu scene and select level one to begin the game.
 
 ## Controls
