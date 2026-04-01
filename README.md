@@ -7,13 +7,13 @@ Run: WinEXE/heavn.exe
 Run the Main Menu scene and select level one to begin the game.
 
 ## Controls
-Move - A / D
-Jump - W (hold for higher jump)
-Double Jump - W again in air
-Dash - Space
-Grapple - Press J when in range of a Grip Pole
-Wall Slide - hold into wall while airborne
-Wall Jump - W while wall sliding
+Move - A / D 
+Jump - W (hold for higher jump) 
+Double Jump - W again in air 
+Dash - Space 
+Grapple - Press J when in range of a Grip Pole 
+Wall Slide - hold into wall while airborne 
+Wall Jump - W while wall sliding 
 
 ## Stars
 Three stars can be collected for each level:
